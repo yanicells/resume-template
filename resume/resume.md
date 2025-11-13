@@ -63,10 +63,9 @@ _Supreme Student Government_ | La Salle Academy
 
 **Redhead Redemption** | _Java, Sockets, Multithreading, OOP_ | March -- May 2025
 
-- Developed a LAN-based multiplayer top-down shooter with custom server-client networking and multithreading.
-
-* Implemented enemy AI with diverse behaviors, leveling systems, and item mechanics.
-* Designed hand-drawn pixel assets and optimized gameplay performance across multiple maps.
+- Developed a LAN-based multiplayer top-down shooter with custom server-client networking and multithreading
+- Implemented enemy AI with diverse behaviors, leveling systems, and item mechanics
+- Designed hand-drawn pixel assets and optimized gameplay performance across multiple maps
 
 **CityCraft** | _Java, Swing, AWT, Audio Programming_ | February–March 2025
 
@@ -80,7 +79,7 @@ _Supreme Student Government_ | La Salle Academy
 - Implemented backend data handling and frontend visualization of astronomy and rover datasets.
 - Strengthened API integration, server routing, and UI data representation skills.
 
-**Musicells** | _React, Vite, TailwindCSS, Spotify API_ | September–October 2025
+**Musicells** | _React, Zustand, Vite, TailwindCSS, Spotify API_ | September–October 2025
 
 - Built a responsive React app for browsing and favoriting music albums using Spotify’s API.
 - Designed album search, new releases, and detail views with interactive UI components.
@@ -111,13 +110,4 @@ _Supreme Student Government_ | La Salle Academy
 **Languages:** Java, Python, JavaScript, TypeScript, HTML/CSS, SQL  
 **Frameworks:** React, Next.js, Node.js, Express.js, Django, Vite, TailwindCSS, Bootstrap  
 **Libraries:** Zustand, Drizzle ORM, Better Auth, REST APIs, Google Studio API, EJS  
-**Developer Tools:** Git, GitHub, Vercel, JetBrains, VS Code, WSL, PostgreSQL, Neon  
-
-
-## Awards and Certificates 
-- Best in Mathematics - 2024
-- Best in Social Sciences - 2024
-- Br. Andrew Gonzales FSC Award for Research - 2024
-- Br. Alfred Shields FSC Award for Excellence in the Science, Technology, Engineering and Mathematics (STEM) Strand (Given to the graduating student who obtained the highest ranking in the strand he or she belongs to) - 2024 La Salle Academy
-- Junior High School:  Gold Medal (Top1, Batch Valedictorian), La Salle Academy
-- Division Schools Press Conference - Iligan City: 5th Place in Copyreading and Headline Writing (English)
+**Developer Tools:** Git, GitHub, Vercel, JetBrains, VS Code, WSL, PostgreSQL, Neon
