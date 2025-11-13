@@ -2,7 +2,7 @@
 
 **Phone:** 0976-490-7611  
 **Email:** edrian.miguel.capistrano@student.ateneo.edu  
-**LinkedIn:** [linkedin.com/](https://www.linkedin.com/in/yanicells)  
+**LinkedIn:** [linkedin.com/](https://www.linkedin.com)  
 **GitHub:** [github.com/yanicells](https://github.com/yanicells)  
 **Portfolio:** [yanicells.dev](https://yanicells.dev/)
 
@@ -26,19 +26,6 @@ _MISA (Management Information Systems Association)_ | Ateneo de Manila Universit
 - Organize technical skill trainings and workshops for students interested in information systems and technology
 - Assist in developing and maintaining organizational websites and systems to support association activities
 
-**Computer Society of the Ateneo** | October 2025 -- Present 
-_Developer_ | Ateneo de Manila University
-
-- Developed and deployed software solutions for organizational events and client projects including websites and web applications
-- Ensured software implementations met professional standards and served project requirements effectively
-
-**Google Developer Groups on Campus Loyola** | September 2025 -- Present 
-_Backend Developer_ | Ateneo de Manila University
-
-- Designed and maintained server-side applications, databases, and APIs ensuring secure and scalable data handling
-- Collaborated with front-end developers to integrate user-facing features with back-end logic
-- Monitored and optimized system performance to maintain reliability and speed
-
 **Geekshop Documentation Core Team** | July 2025 -- Present  
 _CompSAt (Computer Science Association)_ | Ateneo de Manila University
 
@@ -57,6 +44,16 @@ _Supreme Student Government_ | La Salle Academy
 - Oversaw events such as Sportsfest, La Salle Fair, Jumpstart, and House Cup at La Salle Academy
 - Developed leadership, logistics, time management, and project coordination skills through event management
 
+**Tutor** | 2023 -- 2024  
+_Study Buddy Advocacy_ | La Salle Academy
+
+- Tutored Senior High School students at La Salle Academy in **Physics**, **Chemistry**, **Biology**, **Calculus**, and **General Math**
+
+**SMBA Volunteer Teacher** | 2023 -- 2024  
+_De La Salle Brother's Community_ | La Salle Academy
+
+- Delivered Christian Living lessons to underprivileged elementary students as part of community outreach
+
 ---
 
 ## Projects
@@ -65,6 +62,15 @@ _Supreme Student Government_ | La Salle Academy
 
 - Developed a Left 4 Dead 2 inspired networked multiplayer game with **A\* pathfinding** and **multithreading**
 - Implemented version control and project management practices throughout development
+
+**Photo and Music Album Web App** | _HTML, CSS, JavaScript, Tailwind_ | 2024
+
+- Built a responsive media-handling web application using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**
+- Designed intuitive user interface for managing and displaying photo and music collections
+
+**Portfolio Website** | _HTML, CSS, JavaScript, Tailwind_ | [yanicells.dev](https://yanicells.dev/)
+
+- Created a personal showcase site with **HTML**, **CSS**, **JavaScript**, and **Tailwind** to highlight projects and skills
 
 **GUI Card Game** | _Java, Swing, AWT_ | 2024
 
