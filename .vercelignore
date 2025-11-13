@@ -1,0 +1,25 @@
+# LaTeX auxiliary files
+
+_.aux
+_.log
+_.out
+_.toc
+_.synctex.gz
+_.fls
+\*.fdb_latexmk
+
+# Source files (optional - remove these lines if you want to keep them)
+
+_.tex
+_.bib
+\*.md
+Makefile
+
+# Git files
+
+.git/
+.github/
+
+# Other
+
+CNAME
