@@ -31,6 +31,12 @@
 - Implemented backend logic for scoring, user authentication, and result storage.
 - Focused on database integration, server-side validation, and frontend responsiveness.
 
+**MISAyang Samahan** | _Node.js, Express.js, PostgreSQL, TailwindCSS_ | September 2025
+
+- Built a Pokémon-themed HR platform for the Management Information Systems Association (MISA), used by 60+ members for registration and sorting.
+- Developed quiz-based personality sorting logic, admin tools, and secure database integration for tracking and family assignments.
+- Collaborated with UI/UX, HR, and project managers to deliver a fully functional system within a two-week development cycle.
+
 **Blogcells** | _Node.js, Express.js, TailwindCSS, PostgreSQL_ | August–September 2025
 
 - Created a blog platform supporting user posts, comments, and likes with a clean responsive UI.
@@ -42,3 +48,4 @@
 - Designed a web app for users to record and visualize visited countries using ISO codes.
 - Developed user profile management and CRUD functionalities for country tracking.
 - Improved proficiency in database schema design and server–client data flow.
+
